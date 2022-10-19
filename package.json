@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://github.com/albertoalejandro/curso-intro-react"
+  "homepage": "https://github.com/albertoalejandro/curso-intro-react.git"
 }
